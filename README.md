@@ -10,4 +10,4 @@ npm test
 npm run dev
 ```
 
-GitHub Pages では `main` ブランチへの push により GitHub Actions がテスト・ビルド・デプロイを行います。リポジトリの Pages 設定で Source を **GitHub Actions** にしてください。
+GitHub Pages では `main` ブランチへの push により GitHub Actions がテスト・ビルド・デプロイを行います。リポジトリ名は `roguelike-codex`、Pages のURLは `https://zsongtian826-code.github.io/roguelike-codex/` です。リポジトリの Pages 設定で Source を **GitHub Actions** にしてください。
